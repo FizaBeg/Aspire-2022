@@ -1,4 +1,4 @@
-package aspire;
+package aspire.Moday31Jan;
 
 public class TypeCastingDemo {
 	public static void main(String[] args) {

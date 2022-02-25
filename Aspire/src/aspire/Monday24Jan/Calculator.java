@@ -1,4 +1,4 @@
-package aspire;
+package aspire.Monday24Jan;
 
 import java.util.Scanner;
 public class Calculator {

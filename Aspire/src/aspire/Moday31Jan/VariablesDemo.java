@@ -1,4 +1,4 @@
-package aspire;
+package aspire.Moday31Jan;
 
 /*
  * Objetive of this program
@@ -24,7 +24,7 @@ public class VariablesDemo {
 		 * byte - 8 bits
 		 * short - 16 bits
 		 * int - 32 bits
-		 * long - 64biy
+		 * long - 64 bits
 		 */
 		//RANGE
 		weight=127;//maximum value
@@ -44,7 +44,7 @@ public class VariablesDemo {
 		float price=233;
 		price=343434.45F;//mandatory to give F for values which has a decimal
 		
-		//64 bit
+		//DOUBLE - 64 bit
 		double highValue=34344.4545;
 		
 		//CHARACTER
@@ -73,6 +73,10 @@ public class VariablesDemo {
 		
 		Integer i=34344;
 		i=Integer.valueOf(distance);
+		System.out.println(Integer.MIN_VALUE);
+		System.out.println(Integer.MAX_VALUE);
+		
+		System.out.println(Integer.max(10, 20));
 		
 		Long l;
 		Float f;

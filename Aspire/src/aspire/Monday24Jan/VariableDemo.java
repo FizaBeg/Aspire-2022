@@ -1,4 +1,4 @@
-package aspire;
+package aspire.Monday24Jan;
 
 public class VariableDemo {
 	public static void main(String[] args) {
